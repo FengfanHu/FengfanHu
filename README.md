@@ -1,4 +1,4 @@
-### Hi there 👋
+### My name is Frank, a student, programmer and try to be an engineer. 👋
 
 <!--
 **FengfanHu/FengfanHu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
