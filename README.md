@@ -1,4 +1,4 @@
-### A student and a programmer. 👋
+### 🌱 I’m currently learning React
 
 <!--
 **FengfanHu/FengfanHu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
